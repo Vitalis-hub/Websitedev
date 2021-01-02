@@ -1,3 +1,2 @@
-# Websitedev
-First attempt in creating a python based website using pyqt5
-I plan to making updates to it
+# HangMan-project
+This is a basic implementation of python to create a simple Hangman game
